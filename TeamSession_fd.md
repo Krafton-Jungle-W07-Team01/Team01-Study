@@ -22,7 +22,9 @@
 
 <br>
 
-![Untitled]
+![image](https://user-images.githubusercontent.com/67156494/207605798-d5476cfb-8587-4598-a2e0-19e71737f9f7.png)
+
+<br>
 
 1. **[file descriptor table]**
    FD 테이블의 인덱스를 통해 파일 디스크립터 테이블에 접근한다.
@@ -78,7 +80,8 @@
 
 - inode table 이미지
 
-![Untitled]
+![image](https://user-images.githubusercontent.com/67156494/207605830-700ffb3d-43ca-4617-a21c-af6d51e7a187.png)
+
 
 <br>
 
